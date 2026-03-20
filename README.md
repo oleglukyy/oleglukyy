@@ -3,23 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Oleh%20Lukianets&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- HEADER -->
-<h3 align="center">Junior Developer in Growth • Focused on Clean Code & Real Skills</h3>
-
-<p align="center">
-  Building projects. Learning deeply. Improving every day.
-</p>
-
----
-
 ## About Me
 
 I am a junior developer focused on improving real technical skills through constant practice and real projects. My goal is to become a solid full-stack developer with strong logical thinking and clean code habits.
-
-- Currently learning: **JavaScript in depth + Backend fundamentals**
-- Main focus: **Problem solving and real-world projects**
-- Interested in: **AI, Web Development, Backend Logic, Automation**
-- Goal: **Become a professional developer with strong technical foundations**
 
 ---
 
