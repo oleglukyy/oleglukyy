@@ -36,31 +36,6 @@ I am a junior developer focused on improving real technical skills through const
 
 ---
 
-## Technologies & Tools
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Design
-
-### Backend
-- Java
-- Node.js (learning)
-- Logic and algorithms
-
-### Databases
-- MySQL
-- SQL fundamentals
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Linux
-
----
-
 ## Featured Projects
 
 <p align="center">
