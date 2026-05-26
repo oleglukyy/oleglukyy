@@ -6,18 +6,6 @@ I am a junior developer focused on improving real technical skills through const
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oleglukyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleglukyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=oleglukyy&theme=tokyonight&hide_border=true&background=00000000"/>
-</p>
-
----
 
 ## Skills
 
@@ -57,10 +45,4 @@ I am a junior developer focused on improving real technical skills through const
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
